@@ -1,0 +1,550 @@
+[
+  {
+    "name": "bulbasaur",
+    "dex": 1,
+    "version": "firered",
+    "height": 7,
+    "weight": 69,
+    "stats": [
+      {
+        "statName": "hp",
+        "value": 45
+      },
+      {
+        "statName": "attack",
+        "value": 49
+      },
+      {
+        "statName": "defense",
+        "value": 49
+      },
+      {
+        "statName": "special-attack",
+        "value": 65
+      },
+      {
+        "statName": "special-defense",
+        "value": 65
+      },
+      {
+        "statName": "speed",
+        "value": 45
+      }
+    ],
+    "type": [
+      "grass",
+      "poison"
+    ]
+  },
+  {
+    "name": "ivysaur",
+    "dex": 2,
+    "version": "firered",
+    "height": 10,
+    "weight": 130,
+    "stats": [
+      {
+        "statName": "hp",
+        "value": 60
+      },
+      {
+        "statName": "attack",
+        "value": 62
+      },
+      {
+        "statName": "defense",
+        "value": 63
+      },
+      {
+        "statName": "special-attack",
+        "value": 80
+      },
+      {
+        "statName": "special-defense",
+        "value": 80
+      },
+      {
+        "statName": "speed",
+        "value": 60
+      }
+    ],
+    "type": [
+      "grass",
+      "poison"
+    ]
+  },
+  {
+    "name": "venusaur",
+    "dex": 3,
+    "version": "firered",
+    "height": 20,
+    "weight": 1000,
+    "stats": [
+      {
+        "statName": "hp",
+        "value": 80
+      },
+      {
+        "statName": "attack",
+        "value": 82
+      },
+      {
+        "statName": "defense",
+        "value": 83
+      },
+      {
+        "statName": "special-attack",
+        "value": 100
+      },
+      {
+        "statName": "special-defense",
+        "value": 100
+      },
+      {
+        "statName": "speed",
+        "value": 80
+      }
+    ],
+    "type": [
+      "grass",
+      "poison"
+    ]
+  },
+  {
+    "name": "charmander",
+    "dex": 4,
+    "version": "firered",
+    "height": 6,
+    "weight": 85,
+    "stats": [
+      {
+        "statName": "hp",
+        "value": 39
+      },
+      {
+        "statName": "attack",
+        "value": 52
+      },
+      {
+        "statName": "defense",
+        "value": 43
+      },
+      {
+        "statName": "special-attack",
+        "value": 60
+      },
+      {
+        "statName": "special-defense",
+        "value": 50
+      },
+      {
+        "statName": "speed",
+        "value": 65
+      }
+    ],
+    "type": [
+      "fire"
+    ]
+  },
+  {
+    "name": "charmeleon",
+    "dex": 5,
+    "version": "firered",
+    "height": 11,
+    "weight": 190,
+    "stats": [
+      {
+        "statName": "hp",
+        "value": 58
+      },
+      {
+        "statName": "attack",
+        "value": 64
+      },
+      {
+        "statName": "defense",
+        "value": 58
+      },
+      {
+        "statName": "special-attack",
+        "value": 80
+      },
+      {
+        "statName": "special-defense",
+        "value": 65
+      },
+      {
+        "statName": "speed",
+        "value": 80
+      }
+    ],
+    "type": [
+      "fire"
+    ]
+  },
+  {
+    "name": "charizard",
+    "dex": 6,
+    "version": "firered",
+    "height": 17,
+    "weight": 905,
+    "stats": [
+      {
+        "statName": "hp",
+        "value": 78
+      },
+      {
+        "statName": "attack",
+        "value": 84
+      },
+      {
+        "statName": "defense",
+        "value": 78
+      },
+      {
+        "statName": "special-attack",
+        "value": 109
+      },
+      {
+        "statName": "special-defense",
+        "value": 85
+      },
+      {
+        "statName": "speed",
+        "value": 100
+      }
+    ],
+    "type": [
+      "fire",
+      "flying"
+    ]
+  },
+  {
+    "name": "squirtle",
+    "dex": 7,
+    "version": "firered",
+    "height": 5,
+    "weight": 90,
+    "stats": [
+      {
+        "statName": "hp",
+        "value": 44
+      },
+      {
+        "statName": "attack",
+        "value": 48
+      },
+      {
+        "statName": "defense",
+        "value": 65
+      },
+      {
+        "statName": "special-attack",
+        "value": 50
+      },
+      {
+        "statName": "special-defense",
+        "value": 64
+      },
+      {
+        "statName": "speed",
+        "value": 43
+      }
+    ],
+    "type": [
+      "water"
+    ]
+  },
+  {
+    "name": "wartortle",
+    "dex": 8,
+    "version": "firered",
+    "height": 10,
+    "weight": 225,
+    "stats": [
+      {
+        "statName": "hp",
+        "value": 59
+      },
+      {
+        "statName": "attack",
+        "value": 63
+      },
+      {
+        "statName": "defense",
+        "value": 80
+      },
+      {
+        "statName": "special-attack",
+        "value": 65
+      },
+      {
+        "statName": "special-defense",
+        "value": 80
+      },
+      {
+        "statName": "speed",
+        "value": 58
+      }
+    ],
+    "type": [
+      "water"
+    ]
+  },
+  {
+    "name": "blastoise",
+    "dex": 9,
+    "version": "firered",
+    "height": 16,
+    "weight": 855,
+    "stats": [
+      {
+        "statName": "hp",
+        "value": 79
+      },
+      {
+        "statName": "attack",
+        "value": 83
+      },
+      {
+        "statName": "defense",
+        "value": 100
+      },
+      {
+        "statName": "special-attack",
+        "value": 85
+      },
+      {
+        "statName": "special-defense",
+        "value": 105
+      },
+      {
+        "statName": "speed",
+        "value": 78
+      }
+    ],
+    "type": [
+      "water"
+    ]
+  },
+  {
+    "name": "caterpie",
+    "dex": 10,
+    "version": "firered",
+    "height": 3,
+    "weight": 29,
+    "stats": [
+      {
+        "statName": "hp",
+        "value": 45
+      },
+      {
+        "statName": "attack",
+        "value": 30
+      },
+      {
+        "statName": "defense",
+        "value": 35
+      },
+      {
+        "statName": "special-attack",
+        "value": 20
+      },
+      {
+        "statName": "special-defense",
+        "value": 20
+      },
+      {
+        "statName": "speed",
+        "value": 45
+      }
+    ],
+    "type": [
+      "bug"
+    ]
+  },
+  {
+    "name": "metapod",
+    "dex": 11,
+    "version": "firered",
+    "height": 7,
+    "weight": 99,
+    "stats": [
+      {
+        "statName": "hp",
+        "value": 50
+      },
+      {
+        "statName": "attack",
+        "value": 20
+      },
+      {
+        "statName": "defense",
+        "value": 55
+      },
+      {
+        "statName": "special-attack",
+        "value": 25
+      },
+      {
+        "statName": "special-defense",
+        "value": 25
+      },
+      {
+        "statName": "speed",
+        "value": 30
+      }
+    ],
+    "type": [
+      "bug"
+    ]
+  },
+  {
+    "name": "butterfree",
+    "dex": 12,
+    "version": "firered",
+    "height": 11,
+    "weight": 320,
+    "stats": [
+      {
+        "statName": "hp",
+        "value": 60
+      },
+      {
+        "statName": "attack",
+        "value": 45
+      },
+      {
+        "statName": "defense",
+        "value": 50
+      },
+      {
+        "statName": "special-attack",
+        "value": 90
+      },
+      {
+        "statName": "special-defense",
+        "value": 80
+      },
+      {
+        "statName": "speed",
+        "value": 70
+      }
+    ],
+    "type": [
+      "bug",
+      "flying"
+    ]
+  },
+  {
+    "name": "weedle",
+    "dex": 13,
+    "version": "firered",
+    "height": 3,
+    "weight": 32,
+    "stats": [
+      {
+        "statName": "hp",
+        "value": 40
+      },
+      {
+        "statName": "attack",
+        "value": 35
+      },
+      {
+        "statName": "defense",
+        "value": 30
+      },
+      {
+        "statName": "special-attack",
+        "value": 20
+      },
+      {
+        "statName": "special-defense",
+        "value": 20
+      },
+      {
+        "statName": "speed",
+        "value": 50
+      }
+    ],
+    "type": [
+      "bug",
+      "poison"
+    ]
+  },
+  {
+    "name": "kakuna",
+    "dex": 14,
+    "version": "firered",
+    "height": 6,
+    "weight": 100,
+    "stats": [
+      {
+        "statName": "hp",
+        "value": 45
+      },
+      {
+        "statName": "attack",
+        "value": 25
+      },
+      {
+        "statName": "defense",
+        "value": 50
+      },
+      {
+        "statName": "special-attack",
+        "value": 25
+      },
+      {
+        "statName": "special-defense",
+        "value": 25
+      },
+      {
+        "statName": "speed",
+        "value": 35
+      }
+    ],
+    "type": [
+      "bug",
+      "poison"
+    ]
+  },
+  {
+    "name": "beedrill",
+    "dex": 15,
+    "version": "firered",
+    "height": 10,
+    "weight": 295,
+    "stats": [
+      {
+        "statName": "hp",
+        "value": 65
+      },
+      {
+        "statName": "attack",
+        "value": 90
+      },
+      {
+        "statName": "defense",
+        "value": 40
+      },
+      {
+        "statName": "special-attack",
+        "value": 45
+      },
+      {
+        "statName": "special-defense",
+        "value": 80
+      },
+      {
+        "statName": "speed",
+        "value": 75
+      }
+    ],
+    "type": [
+      "bug",
+      "poison"
+    ]
+  }
+]

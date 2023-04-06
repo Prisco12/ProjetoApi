@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Sacola",
+    "valor": 12,
+    "qtd": 3,
+    "frete": 150
+  },
+  {
+    "name": "Tenis",
+    "valor": 44,
+    "qtd": 7,
+    "frete": 143
+  },
+  {
+    "name": "Bolsa",
+    "valor": 58,
+    "qtd": 34,
+    "frete": 175
+  },
+  {
+    "name": "Furadeira",
+    "valor": 657,
+    "qtd": 8,
+    "frete": 344
+  }
+]
